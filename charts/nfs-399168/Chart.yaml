@@ -13,4 +13,4 @@ name: nfs-399168
 orig_name: nfs-client-provisioner
 sources:
 - https://github.com/kubernetes-incubator/external-storage/tree/master/nfs-client
-version: 1.2.7
+version: 0.0.1
